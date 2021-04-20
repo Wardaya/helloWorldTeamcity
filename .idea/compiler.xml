@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="helloWorldTeamcity" />
+        <module name="helloWorldTeamcityChild2" />
+        <module name="helloWorldTeamcityChild1" />
       </profile>
     </annotationProcessing>
   </component>
