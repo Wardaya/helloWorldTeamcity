@@ -8,6 +8,14 @@
     <artifactId>helloWorldTeamcity</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
@@ -16,7 +24,7 @@
 
     <profiles>
         <profile>
-            <id>onlyChildOne</id>
+            <id>onlyChild1</id>
             <activation>
                 <activeByDefault>false</activeByDefault>
             </activation>
@@ -25,7 +33,7 @@
             </modules>
         </profile>
         <profile>
-            <id>onlyChildTwo</id>
+            <id>onlyChild2</id>
             <activation>
                 <activeByDefault>false</activeByDefault>
             </activation>
