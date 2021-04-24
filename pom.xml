@@ -24,7 +24,7 @@
 
     <profiles>
         <profile>
-            <id>onlyChild1</id>
+            <id>onlyChildOne</id>
             <activation>
                 <activeByDefault>false</activeByDefault>
             </activation>
@@ -33,7 +33,7 @@
             </modules>
         </profile>
         <profile>
-            <id>onlyChild2</id>
+            <id>onlyChildTwo</id>
             <activation>
                 <activeByDefault>false</activeByDefault>
             </activation>
