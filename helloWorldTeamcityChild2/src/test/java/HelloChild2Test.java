@@ -1,8 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class HelloTest {
-
+public class HelloChild2Test {
     @Test
     public void shouldTrue(){
         Assert.assertTrue(true);
