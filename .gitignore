@@ -1,2 +1,26 @@
 # Project exclude paths
 /target/
+/helloWorldTeamcityChild1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/helloWorldTeamcityChild1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/helloWorldTeamcityChild2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/helloWorldTeamcityChild2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/helloWorldTeamcityChild1/target/test-classes/HelloChild1Test.class
+/helloWorldTeamcityChild1/target/surefire-reports/HelloChild1Test.txt
+/helloWorldTeamcityChild2/target/test-classes/HelloChild2Test.class
+/helloWorldTeamcityChild2/target/surefire-reports/HelloChild2Test.txt
+/helloWorldTeamcityChild1/target/classes/HelloWorldChild1.class
+/helloWorldTeamcityChild2/target/classes/HelloWorldChild2.class
+/helloWorldTeamcityChild1/helloWorldTeamcityChild1.iml
+/helloWorldTeamcityChild1/target/helloWorldTeamcityChild1-1.0-SNAPSHOT.jar
+/helloWorldTeamcityChild2/helloWorldTeamcityChild2.iml
+/helloWorldTeamcityChild2/target/helloWorldTeamcityChild2-1.0-SNAPSHOT.jar
+/helloWorldTeamcityChild1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/helloWorldTeamcityChild1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/helloWorldTeamcityChild2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/helloWorldTeamcityChild2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/.idea/modules.xml
+/helloWorldTeamcityChild1/target/maven-archiver/pom.properties
+/helloWorldTeamcityChild2/target/maven-archiver/pom.properties
+/helloWorldTeamcityChild1/target/surefire-reports/TEST-HelloChild1Test.xml
+/helloWorldTeamcityChild2/target/surefire-reports/TEST-HelloChild2Test.xml
+/.idea/uiDesigner.xml
